@@ -1,0 +1,6 @@
+order_id,order_date,product,category,quantity,price
+101,2024-01-05,Laptop,Electronics,1,70000
+102,2024-01-10,Phone,Electronics,2,30000
+103,2024-02-15,Chair,Furniture,4,5000
+104,2024-03-20,Book,Books,3,800
+105,2024-03-22,Headphones,Electronics,1,4000
